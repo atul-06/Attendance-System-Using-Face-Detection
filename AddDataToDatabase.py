@@ -15,7 +15,7 @@ data = {
         {
             "Name": "Atul Kumar",
             "Course": "Computer Application",
-            "Semester": 2,
+            "Semester": 3,
             "Year": 1,
             "Standing": "G",
             "Total_attendance": 0,
